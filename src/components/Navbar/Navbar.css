@@ -1,0 +1,46 @@
+/* app.css */
+.custom-font {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-weight: 500;
+  font-style: 55 Roman;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #737A91;
+}
+
+
+.find-job {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-weight: 600;
+  font-style: 65 Medium;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #0154AA;
+}
+
+.search-css {
+  width: 261;
+  height: 39;
+  opacity: 10;
+  gap: 10px;
+  border-radius: 8px;
+  padding-top: 6px;
+  padding-right: 20px;
+  padding-bottom: 6px;
+  padding-left: 20px;
+}
+
+.resume-builder-css {
+  width: 147;
+  height: 39;
+  opacity: 1;
+  gap: 10px;
+  border-radius: 8px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  background-color: #0154AA;
+}
