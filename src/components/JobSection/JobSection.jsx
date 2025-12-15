@@ -1,5 +1,5 @@
 import JobCard from "../JobCard/JobCard";
-import './jobSection.css';
+import './JobSection.css';
 
 export default function JobSection({ title }) {
   return (
