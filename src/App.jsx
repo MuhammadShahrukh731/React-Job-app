@@ -1,8 +1,8 @@
-import Profile from "./components/Profile/Profile.jsx";
-import SearchBar from "./components/SearchBar/index.jsx";
-import JobSection from "./components/JobSection/JobSection.jsx";
-import NavBar from "./components/NavBar/NavBar.jsx";
-import Header from "./components/Header/Header.jsx";
+import Profile from "./components/Profile/Profile";
+import JobSection from "./components/JobSection/JobSection";
+import NavBar from "./components/NavBar/NavBar";
+import Header from "./components/Header/Header";
+import SearchBar from "./components/SearchBar/SearchBar";
 
 export default function App() {
   return (
