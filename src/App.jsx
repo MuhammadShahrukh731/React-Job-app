@@ -1,8 +1,8 @@
 import Profile from "./components/Profile/Profile";
-import Header from "./components/Header/Header";
 import SearchBar from "./components/SearchBar/SearchBar";
 import JobSection from "./components/JobSection/JobSection";
 import NavBar from "./components/NavBar/NavBar";
+import Header from "./components/Header/Header";
 
 export default function App() {
   return (
