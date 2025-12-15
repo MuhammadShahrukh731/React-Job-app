@@ -1,10 +1,12 @@
 import JobCard from "../../components/Jobcard/Jobcard";
+import './jobsection.css';
 
 export default function JobSection({ title }) {
   return (
     <section className="space-y-4">
       <div className="flex justify-between items-center">
         <h2 className="font-semibold text-lg">{title}</h2>
+        <a className="job-link">See {title}</a>
         <button className="text-sm text-blue-600 hover:underline">
           See all
         </button>
