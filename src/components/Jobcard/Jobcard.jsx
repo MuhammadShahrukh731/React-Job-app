@@ -1,5 +1,5 @@
 import Logo from '../../assets/images/t-logo.png';
-import './jobcard.css';
+import './jobCard.css';
 
 export default function JobCard() {
   return (

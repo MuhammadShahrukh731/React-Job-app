@@ -1,5 +1,5 @@
 
-import './Searchbar.css';
+import './SearchBar.css';
 export default function SearchBar() {
   return (
     <div className="bg-white p-4 rounded-lg shadow-sm flex gap-4">
