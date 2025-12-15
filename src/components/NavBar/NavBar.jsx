@@ -1,6 +1,6 @@
 import Logo from '../../assets/images/logo.png';
 import Avatar from '../../assets/images/avatar.jpg';
-import './Navbar.css';
+import './NavBar.css';
 
 export default function Navbar() {
   return (
