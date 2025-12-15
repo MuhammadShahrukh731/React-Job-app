@@ -20,7 +20,6 @@ export default function Navbar() {
         <a href="/documents" className="text-sm">Documents</a>
         <a href="/messages" className="text-sm">Messages</a>
         <a href="/notifications" className="text-sm">Notifications</a>
-
         <input
           type="search"
           placeholder="Search"
