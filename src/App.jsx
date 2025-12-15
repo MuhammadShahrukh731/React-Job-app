@@ -1,5 +1,5 @@
 import Profile from "./components/Profile/Profile.jsx";
-import SearchBar from "./components/SearchBar/SearchBar.jsx";
+import SearchBar from "./components/SearchBar";
 import JobSection from "./components/JobSection/JobSection.jsx";
 import NavBar from "./components/NavBar/NavBar.jsx";
 import Header from "./components/Header/Header.jsx";
